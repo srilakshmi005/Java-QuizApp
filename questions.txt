@@ -1,0 +1,55 @@
+What is Java?
+A.Language
+B.Coffee
+C.Animal
+D.Car
+A
+
+Capital of India?
+A.Mumbai
+B.Delhi
+C.Chennai
+D.Kolkata
+B
+
+Who invented C?
+A.Bjarne
+B.Dennis
+C.guido
+D.James
+B
+
+Largest ocean?
+A.Atlantic
+B.Pacific
+C.Indian
+D.Arctic
+B
+
+What is 2+2?
+A.2
+B.3
+C.4
+D.5
+C
+
+What is the boiling point of water?
+A.90C
+B.80C
+C.100C
+D.110C
+C
+
+Which is a programming language?
+A.Python
+B.Snake
+C.Panda
+D.Lion
+A
+
+Which is not an OOP principle?
+A.Inheritance
+B.Polymorphism
+C.Compilation
+D.Encapsulation
+C
